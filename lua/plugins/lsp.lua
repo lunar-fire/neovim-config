@@ -132,6 +132,7 @@ return {
     local servers = {
       ts_ls = {},
       ruff = {},
+      rust_analyzer = {},
       pylsp = {
         settings = {
           pylsp = {

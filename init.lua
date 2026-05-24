@@ -28,4 +28,6 @@ require('lazy').setup {
   require 'plugins.alpha',
   require 'plugins.indent-blankline',
   require 'plugins.misc',
+  require 'plugins.render-markdown',
+  require 'plugins.nvim-ts-autotag',
 }
